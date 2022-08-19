@@ -1,0 +1,1 @@
+print('Привет' if int(input()) > 7 else None)
